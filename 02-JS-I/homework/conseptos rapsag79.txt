@@ -1,0 +1,26 @@
+.txt
+En un archivo de texto separado que debes crear,
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: 
+Una variable es aquella en la que puede se puede almacenar algo para depues usarlo. 
+Una variable se puede configurar y restableser acualqier tipo, sin nesecidad de declarar su valor inicial.
+
+Strings:
+las strings son bloques de caracteres definidos por comillas (" ")
+
+
+Funciones (argumentos, return)
+Una FUNCION es una agrupacion de codigo(s) que se utilizaran mucahs veses.
+
+Los ARGUMENTOS son variables que declaramos dentro de la funcion entre parentesis "()" que tomara un valor al ser invocada.
+
+RETURN: es todo aquello que retorna al invocar la funcion, inclusibe las variables no definidas (undefined)
+
+
+Declaraciones if: Una declaracion "if" le indica al programa que acción ejecutar, si las condicion es verdadera.
+
+
+
+Valores booleanos (true, false): Un valor booleano es representado por "tur or false" ( verdad o falso ) tambien "yes/no" "on/off"
