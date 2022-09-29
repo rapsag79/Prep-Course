@@ -259,12 +259,15 @@ function esVocal(letra){
   //en caso de que haya mas de un caracter en letra "dato incorrecto"
   if(letra.length > 1){// que (letra)  tenga mas caracteres
   return "Dato incorrecto";
-}else if(letra.length !== 1){
-  return "Dato incorrecto"
-}
-else(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u"){
-  return "Es vocal"
-}
+  }
+  else if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u")
+  {
+    return "Es vocal";
+  }
+ else(letra.length !== "a" || letra !== "e" || letra !== "i" || letra !== "o" || letra !== "u")
+  {
+  return "Dato incorrecto";
+  }
 
 }
 
