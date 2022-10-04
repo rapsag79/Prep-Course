@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+prototype:Nos permite definir mas metodos de un objeto, o a sobreeecribirlo, aun que no es recomendable hacerlo "NUNCA", Amenos de que sean objetos propios o clase. 
+
+
+Constructors (de Clases):
+Constructors, Es el codigo que se construye y configura un objeto con new
+
