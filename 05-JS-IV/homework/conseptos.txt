@@ -1,0 +1,33 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Son una coleccion de propiedades.
+Los objetos son todas aquellas acciones que interactuan con el usuario(una venta de navegacion, buscador, formularios, etc)
+
+
+
+Propiedades:Son los Valores asociados  al objeto.
+
+
+
+Métodos:Son finciones almacedos como propiedad del objeto.
+
+
+
+Bucle for…in:Los bucles for in sirve para recorree objetos.
+
+
+
+Notación de puntos vs notación de corchetes:
+
+Notación de puntos
+
+Los identificadores de propiedad sólo pueden ser alfanuméricos (y _ y $)
+-Los identificadores de propiedad no pueden empezar por un número.
+-Los identificadores de propiedad no pueden contener variables.
+-Aceptable – obj.prop_1, obj.prop$
+-No aceptable – obj.1prop, obj.prop name
+
+Notación deracket:
+
+-Los identificadores de propiedad tienen que ser una Cadena o una variable que haga referencia a una Cadena.
+-Está bien usar variables, espacios y cadenas que empiecen por números
